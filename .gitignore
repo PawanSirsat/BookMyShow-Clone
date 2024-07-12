@@ -6,3 +6,4 @@ npm-debug.log
 # Logs
 logs/
 *.log
+git add .

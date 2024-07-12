@@ -145,6 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Mongoose](https://mongoosejs.com/)
 - [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) for payment processing.
 
----
-
-Feel free to adjust or expand upon this README based on your specific project needs.
+----
