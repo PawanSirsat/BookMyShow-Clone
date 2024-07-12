@@ -1,0 +1,57 @@
+:root {
+  --colour-primary: #863bb5;
+  --colour-secondary: #e6b412;
+}
+
+.bg-image {
+  background-image: url("https://img.freepik.com/free-vector/seamless-pattern-with-cinema-elements_225004-1154.jpg?w=740&t=st=1693487341~exp=1693487941~hmac=f63a6de93ff607bf2ac7df47100f40984c1cbfd98e3e220df7783256c4c7ceed");
+}
+
+.bg-primary {
+  background-color: var(--colour-primary);
+}
+
+.bg-secondary {
+  background-color: var(--colour-secondary);
+}
+
+.bg-error {
+  background-color: #ff0000;
+}
+
+.bg-warning {
+  background-color: #a2840e;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.text-primary {
+  color: var(--colour-primary) !important;
+  /* color: black !important; */
+}
+
+.text-secondary {
+  color: var(--colour-secondary);
+}
+
+.text-black {
+  color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.border-primary {
+  border-color: var(--colour-primary);
+}
+
+.border-secondary {
+  border-color: var(--colour-secondary);
+}
